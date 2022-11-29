@@ -1,3 +1,15 @@
+#Additional folders and files
+Resources
+crypto_data.csv
+iris.csv
+new_iris_data.csv
+Module_18_2.ipynb
+module_18_3.ipynb
+Module_18_4.ipynb
+Module_18_5.ipynb
+module_18_6_3.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
